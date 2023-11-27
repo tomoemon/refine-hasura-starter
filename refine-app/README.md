@@ -1,3 +1,5 @@
+This repository provides a docker-compose environment template for creating applications using hasura + refine.
+
 # Setup
 
 Initialize refine-app inside `refine` container.
