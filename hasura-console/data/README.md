@@ -21,3 +21,14 @@ If you want to execute only a specific SQL file, run the following command.
 ```sh
 hasura seed apply --file reset_all.sql --admin-secret mymyadminsecretkey
 ```
+
+See official documentation for more details.
+
+- https://hasura.io/docs/latest/hasura-cli/commands/hasura_seed_apply/
+
+# migrations
+
+See official documentation for more details.
+
+- https://hasura.io/docs/latest/hasura-cli/commands/hasura_migrate_create/
+- https://hasura.io/docs/latest/hasura-cli/commands/hasura_migrate_apply/
